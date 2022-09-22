@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TinTin</string>
+    <string name="name">Name:</string>
+    <string name="age">Age:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">e-mail:</string>
+    <string name="description">Description:</string>
+    <string name="breed">Breed:</string>
+</resources>
